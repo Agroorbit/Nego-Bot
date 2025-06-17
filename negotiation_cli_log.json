@@ -1,0 +1,508 @@
+[
+    {
+        "id": 95085,
+        "firm": "Evergreen Crop",
+        "category": "Herbicide",
+        "quantity": 1,
+        "created_at": "2025-06-02T12:16:17",
+        "updated_at": "2025-06-02T12:16:17",
+        "product_code": "EC-H001",
+        "product_name": "Evergreen Paraquat",
+        "variant": "1L",
+        "negotiated_price": 471,
+        "price": 500,
+        "status": "accepted",
+        "user_id": 6648,
+        "history": [
+            {
+                "user_offer": 450,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9480.",
+                "stage": 1,
+                "status": "pending"
+            },
+            {
+                "user_offer": 470,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9475.",
+                "stage": 2,
+                "status": "pending"
+            },
+            {
+                "user_offer": 471,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b9471!",
+                "stage": 3,
+                "status": "accepted"
+            }
+        ],
+        "contact_option": {
+            "show": false,
+            "message": ""
+        },
+        "min_negotiable_price": 410
+    },
+    {
+        "id": 95086,
+        "quantity": 1,
+        "created_at": "2025-06-02T12:47:50",
+        "updated_at": "2025-06-02T12:47:50",
+        "product_code": "EC-H002",
+        "product_name": "Evergreen 2,4-D",
+        "variant": "250ml",
+        "price": 120,
+        "status": "accepted",
+        "user_id": 4334,
+        "history": [
+            {
+                "user_offer": 110,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9120.",
+                "stage": 1,
+                "status": "pending"
+            },
+            {
+                "user_offer": 111,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9115.",
+                "stage": 2,
+                "status": "pending"
+            },
+            {
+                "user_offer": 115,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b9115!",
+                "stage": 2,
+                "status": "accepted"
+            }
+        ],
+        "contact_option": {
+            "show": false,
+            "message": ""
+        },
+        "min_negotiable_price": 98
+    },
+    {
+        "id": 95087,
+        "quantity": 1,
+        "created_at": "2025-06-02T14:41:16",
+        "updated_at": "2025-06-02T14:41:16",
+        "product_code": "AO-F002",
+        "product_name": "Orbit Urea",
+        "variant": "50kg",
+        "price": 960,
+        "status": "accepted",
+        "user_id": 8144,
+        "history": [
+            {
+                "user_offer": 950,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9960.",
+                "stage": 1,
+                "status": "pending"
+            },
+            {
+                "user_offer": 952,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9956.",
+                "stage": 2,
+                "status": "pending"
+            },
+            {
+                "user_offer": 955,
+                "bot_reply": "\u2705 Accepted at \u20b9955!",
+                "stage": 2,
+                "status": "accepted"
+            }
+        ],
+        "contact_option": {
+            "show": false,
+            "message": ""
+        },
+        "min_negotiable_price": 820
+    },
+    {
+        "id": 95088,
+        "quantity": 1,
+        "created_at": "2025-06-02T15:03:26",
+        "updated_at": "2025-06-02T15:03:26",
+        "product_code": "ME-F001",
+        "product_name": "Mahesh DAP",
+        "variant": "50kg",
+        "price": 1250,
+        "cost_price": 1000,
+        "status": "rejected",
+        "user_id": 8286,
+        "history": [
+            {
+                "user_offer": 1,
+                "bot_reply": "\ud83d\uded1 Sorry, we can't go below \u20b91025.",
+                "stage": 0,
+                "status": "rejected"
+            }
+        ],
+        "contact_option": {
+            "show": true,
+            "message": "Contact our sales professional at sales@yourcompany.com or +91-XXXXXXXXXX for assistance."
+        },
+        "min_negotiable_price": 1025
+    },
+    {
+        "id": 95089,
+        "quantity": 250,
+        "created_at": "2025-06-02T17:05:07",
+        "updated_at": "2025-06-02T17:05:07",
+        "product_code": "ME-H001",
+        "product_name": "Mahesh Glyphosate",
+        "variant": "500ml",
+        "price": 300,
+        "cost_price": 220,
+        "status": "rejected",
+        "user_id": 8537,
+        "history": [
+            {
+                "user_offer": 200,
+                "bot_reply": "\ud83d\uded1 Sorry, we can't go below \u20b9290.",
+                "stage": 0,
+                "status": "rejected"
+            }
+        ],
+        "contact_option": {
+            "show": true,
+            "message": "Contact our sales professional at sales@yourcompany.com or +91-XXXXXXXXXX for assistance."
+        },
+        "min_negotiable_price": 290
+    },
+    {
+        "id": 95090,
+        "quantity": 530,
+        "created_at": "2025-06-03T15:41:02",
+        "updated_at": "2025-06-03T15:41:02",
+        "product_code": "ME-H001",
+        "product_name": "Mahesh Glyphosate",
+        "variant": "1L",
+        "price": 540,
+        "cost_price": 430,
+        "status": "rejected",
+        "user_id": 7545,
+        "history": [
+            {
+                "user_offer": 5,
+                "bot_reply": "\ud83d\uded1 Sorry, we can't go below \u20b9500.",
+                "stage": 0,
+                "status": "rejected"
+            }
+        ],
+        "contact_option": {
+            "show": true,
+            "message": "Contact our sales professional at sales@yourcompany.com or +91-XXXXXXXXXX for assistance."
+        },
+        "min_negotiable_price": 500
+    },
+    {
+        "id": 95091,
+        "quantity": 1,
+        "created_at": "2025-06-03T16:42:06",
+        "updated_at": "2025-06-03T16:42:06",
+        "product_code": "ME-F001",
+        "product_name": "Mahesh DAP",
+        "variant": "50kg",
+        "price": 1250,
+        "cost_price": 1000,
+        "status": "accepted",
+        "user_id": 2094,
+        "history": [
+            {
+                "user_offer": 1150,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b91180.",
+                "stage": 1,
+                "status": "pending"
+            },
+            {
+                "user_offer": 1180,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b91180!",
+                "stage": 1,
+                "status": "accepted"
+            }
+        ],
+        "contact_option": {
+            "show": false,
+            "message": ""
+        },
+        "min_negotiable_price": 1025
+    },
+    {
+        "id": 95092,
+        "quantity": 1,
+        "created_at": "2025-06-03T17:07:04",
+        "updated_at": "2025-06-03T17:07:04",
+        "product_code": "AO-H001",
+        "product_name": "Orbit Glyphosate",
+        "variant": "500ml",
+        "price": 295,
+        "cost_price": 228,
+        "status": "accepted",
+        "user_id": 1533,
+        "history": [
+            {
+                "user_offer": 290,
+                "bot_reply": "\u2705 Accepted at \u20b9290!",
+                "stage": 0,
+                "status": "accepted"
+            }
+        ],
+        "contact_option": {
+            "show": false,
+            "message": ""
+        },
+        "min_negotiable_price": 241
+    },
+    {
+        "id": 95093,
+        "quantity": 1,
+        "created_at": "2025-06-04T16:35:27",
+        "updated_at": "2025-06-04T16:36:03",
+        "product_code": "ME-F001",
+        "product_name": "Mahesh DAP",
+        "variant": "10kg",
+        "price": 300,
+        "cost_price": 240,
+        "firm": "Mahesh Enterprise",
+        "category": "Fertilizer",
+        "formula_used": "main",
+        "negotiation_min": 268,
+        "history": [
+            {
+                "round": 1,
+                "user_offer": 280,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9300.",
+                "bot_counter_offer": 300,
+                "timestamp": "2025-06-04T16:35:45"
+            },
+            {
+                "round": 2,
+                "user_offer": 285,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9292.",
+                "bot_counter_offer": 292,
+                "timestamp": "2025-06-04T16:35:52"
+            },
+            {
+                "round": 3,
+                "user_offer": 287,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b9287!",
+                "bot_counter_offer": 287,
+                "timestamp": "2025-06-04T16:36:03"
+            }
+        ],
+        "final_status": "deal",
+        "final_price": 287,
+        "user_id": 4293,
+        "contact_option": {
+            "show": false,
+            "message": ""
+        }
+    },
+    {
+        "id": 95094,
+        "quantity": 1,
+        "created_at": "2025-06-12T16:13:44",
+        "updated_at": "2025-06-12T16:14:22",
+        "product_code": "ME-F001",
+        "product_name": "Mahesh DAP",
+        "variant": "50kg",
+        "price": 1250,
+        "cost_price": 1000,
+        "firm": "Mahesh Enterprise",
+        "category": "Fertilizer",
+        "formula_used": "main",
+        "negotiation_min": 1120,
+        "history": [
+            {
+                "round": 1,
+                "user_offer": 1200,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b91230.",
+                "bot_counter_offer": 1230,
+                "timestamp": "2025-06-12T16:13:59"
+            },
+            {
+                "round": 2,
+                "user_offer": 1220,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b91225.",
+                "bot_counter_offer": 1225,
+                "timestamp": "2025-06-12T16:14:06"
+            },
+            {
+                "round": 3,
+                "user_offer": 1221,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b91221!",
+                "bot_counter_offer": 1221,
+                "timestamp": "2025-06-12T16:14:22"
+            }
+        ],
+        "final_status": "deal",
+        "final_price": 1221,
+        "user_id": 2966,
+        "contact_option": {
+            "show": false,
+            "message": ""
+        }
+    },
+    {
+        "id": 95095,
+        "quantity": 1,
+        "created_at": "2025-06-14T13:25:05",
+        "updated_at": "2025-06-14T13:25:36",
+        "product_code": "ME-F001",
+        "product_name": "Mahesh DAP",
+        "variant": "50kg",
+        "price": 1250,
+        "cost_price": 1000,
+        "firm": "Mahesh Enterprise",
+        "category": "Fertilizer",
+        "negotiation_min": 1025.0111666210553,
+        "classification": "main",
+        "history": [
+            {
+                "round": 1,
+                "user_offer": 1200,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b91230.",
+                "bot_counter_offer": 1230,
+                "timestamp": "2025-06-14T13:25:20"
+            },
+            {
+                "round": 2,
+                "user_offer": 1212,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b91221.",
+                "bot_counter_offer": 1221,
+                "timestamp": "2025-06-14T13:25:26"
+            },
+            {
+                "round": 3,
+                "user_offer": 1215,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b91215!",
+                "bot_counter_offer": 1215,
+                "timestamp": "2025-06-14T13:25:36"
+            }
+        ],
+        "final_status": "deal",
+        "final_price": 1215,
+        "user_id": 7727,
+        "contact_option": {
+            "show": false,
+            "message": ""
+        }
+    },
+    {
+        "id": 95096,
+        "quantity": 1,
+        "created_at": "2025-06-16T14:12:52",
+        "updated_at": "2025-06-16T14:13:10",
+        "product_code": "CI-F002",
+        "product_name": "Cropcrade MOP",
+        "variant": "25kg",
+        "price": 700,
+        "cost_price": 570,
+        "firm": "Cropcrade India Private Limited",
+        "category": "Fertilizer",
+        "negotiation_min": 574.0,
+        "classification": "main",
+        "history": [
+            {
+                "round": 1,
+                "user_offer": 680,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9700.",
+                "bot_counter_offer": 700,
+                "timestamp": "2025-06-16T14:13:03"
+            },
+            {
+                "round": 2,
+                "user_offer": 681,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9690.",
+                "bot_counter_offer": 690,
+                "timestamp": "2025-06-16T14:13:07"
+            },
+            {
+                "round": 3,
+                "user_offer": 682,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b9682!",
+                "bot_counter_offer": 682,
+                "timestamp": "2025-06-16T14:13:10"
+            }
+        ],
+        "final_status": "deal",
+        "final_price": 682,
+        "user_id": 2280,
+        "contact_option": {
+            "show": false,
+            "message": ""
+        }
+    },
+    {
+        "id": 95097,
+        "quantity": 49,
+        "created_at": "2025-06-17T12:49:26",
+        "updated_at": "2025-06-17T12:50:06",
+        "product_code": "ME-H001",
+        "product_name": "Mahesh Glyphosate",
+        "variant": "500ml",
+        "price": 300,
+        "cost_price": 220,
+        "firm": "Mahesh Enterprise",
+        "category": "Herbicide",
+        "negotiation_min": 245.99999999999997,
+        "classification": "main",
+        "history": [
+            {
+                "round": 1,
+                "user_offer": 250,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b9280.",
+                "bot_counter_offer": 280,
+                "timestamp": "2025-06-17T12:50:01"
+            },
+            {
+                "round": 1,
+                "user_offer": 260,
+                "bot_reply": "\ud83d\udce6 Bulk deal: \u20b9260 for 50 units.",
+                "bot_counter_offer": 280,
+                "timestamp": "2025-06-17T12:50:06"
+            }
+        ],
+        "final_status": "deal",
+        "final_price": 260,
+        "user_id": 6839,
+        "contact_option": {
+            "show": false,
+            "message": ""
+        }
+    },
+    {
+        "id": 95098,
+        "quantity": 19,
+        "created_at": "2025-06-17T13:06:00",
+        "updated_at": "2025-06-17T13:06:38",
+        "product_code": "ME-F001",
+        "product_name": "Mahesh DAP",
+        "variant": "50kg",
+        "price": 1250,
+        "cost_price": 1000,
+        "firm": "Mahesh Enterprise",
+        "category": "Fertilizer",
+        "negotiation_min": 1025.0,
+        "classification": "main",
+        "history": [
+            {
+                "round": 1,
+                "user_offer": 1140,
+                "bot_reply": "\ud83e\udd1d We'd be comfortable at \u20b91170.",
+                "bot_counter_offer": 1170,
+                "timestamp": "2025-06-17T13:06:27"
+            },
+            {
+                "round": 1,
+                "user_offer": 1180,
+                "bot_reply": "\u2705 Great! We'll proceed at \u20b91180!",
+                "bot_counter_offer": 1170,
+                "timestamp": "2025-06-17T13:06:38"
+            }
+        ],
+        "final_status": null,
+        "final_price": null,
+        "user_id": 6862,
+        "contact_option": {
+            "show": false,
+            "message": ""
+        }
+    }
+]

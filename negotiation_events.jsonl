@@ -1,0 +1,8 @@
+{"timestamp": "2025-06-12T16:14:22.462117", "event": "deal_closed", "product_code": "ME-F001", "qty": 1, "lp": 1250, "cp": 1000, "final_min_negotiation": 1120, "formula_used": "main", "order_count": 0, "margin_pct": 0.0}
+{"timestamp": "2025-06-12T16:14:22.462723", "event": "order_summary", "order_id": 95094, "product_code": "ME-F001", "quantity": 1}
+{"timestamp": "2025-06-14T13:25:36.484835", "event": "deal_closed", "product_code": "ME-F001", "qty": 1, "lp": 1250, "cp": 1000, "negotiation_min": 1025.0111666210553, "classification": "main", "order_count": 1}
+{"timestamp": "2025-06-14T13:25:36.485414", "event": "order_summary", "order_id": 95095, "product_code": "ME-F001", "quantity": 1}
+{"timestamp": "2025-06-16T14:13:10.232021", "event": "deal_closed", "product_code": "CI-F002", "qty": 1, "lp": 700, "cp": 570, "negotiation_min": 574.0, "classification": "main", "order_count": 0}
+{"timestamp": "2025-06-16T14:13:10.232646", "event": "order_summary", "order_id": 95096, "product_code": "CI-F002", "quantity": 1}
+{"timestamp": "2025-06-17T12:50:06.878480", "event": "deal_closed", "product_code": "ME-H001", "qty": 50, "lp": 300, "cp": 220, "negotiation_min": 245.99999999999997, "classification": "main", "order_count": 0}
+{"timestamp": "2025-06-17T12:50:06.879083", "event": "order_summary", "order_id": 95097, "product_code": "ME-H001", "quantity": 50}

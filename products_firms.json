@@ -1,0 +1,158 @@
+{
+  "Mahesh Enterprise": {
+    "categories": {
+      "Fertilizer": [
+        {
+          "product_code": "ME-F001",
+          "product_name": "Mahesh DAP",
+          "variants": {
+            "50kg": {"list_price": 1250, "cost_price": 1000, "bulk_price": 1150, "bulk_threshold": 20},
+            "10kg": {"list_price": 300, "cost_price": 240, "bulk_price": 270, "bulk_threshold": 60}
+          }
+        },
+        {
+          "product_code": "ME-F002",
+          "product_name": "Mahesh Urea",
+          "variants": {
+            "50kg": {"list_price": 950, "cost_price": 800, "bulk_price": 870, "bulk_threshold": 25},
+            "5kg": {"list_price": 110, "cost_price": 85, "bulk_price": 99, "bulk_threshold": 100}
+          }
+        }
+      ],
+      "Herbicide": [
+        {
+          "product_code": "ME-H001",
+          "product_name": "Mahesh Glyphosate",
+          "variants": {
+            "1L": {"list_price": 540, "cost_price": 430, "bulk_price": 500, "bulk_threshold": 25},
+            "500ml": {"list_price": 300, "cost_price": 220, "bulk_price": 260, "bulk_threshold": 50}
+          }
+        },
+        {
+          "product_code": "ME-H002",
+          "product_name": "Mahesh Atrazine",
+          "variants": {
+            "1kg": {"list_price": 380, "cost_price": 290, "bulk_price": 340, "bulk_threshold": 40},
+            "500g": {"list_price": 200, "cost_price": 150, "bulk_price": 180, "bulk_threshold": 80}
+          }
+        }
+      ]
+    }
+  },
+  "Evergreen Crop": {
+    "categories": {
+      "Fertilizer": [
+        {
+          "product_code": "EC-F001",
+          "product_name": "Evergreen NPK",
+          "variants": {
+            "50kg": {"list_price": 1300, "cost_price": 1050, "bulk_price": 1180, "bulk_threshold": 20},
+            "5kg": {"list_price": 170, "cost_price": 140, "bulk_price": 158, "bulk_threshold": 70}
+          }
+        },
+        {
+          "product_code": "EC-F002",
+          "product_name": "Evergreen DAP",
+          "variants": {
+            "50kg": {"list_price": 1260, "cost_price": 1020, "bulk_price": 1130, "bulk_threshold": 22},
+            "10kg": {"list_price": 310, "cost_price": 250, "bulk_price": 285, "bulk_threshold": 60}
+          }
+        }
+      ],
+      "Herbicide": [
+        {
+          "product_code": "EC-H001",
+          "product_name": "Evergreen Paraquat",
+          "variants": {
+            "1L": {"list_price": 500, "cost_price": 400, "bulk_price": 470, "bulk_threshold": 20}
+          }
+        },
+        {
+          "product_code": "EC-H002",
+          "product_name": "Evergreen 2,4-D",
+          "variants": {
+            "500ml": {"list_price": 210, "cost_price": 160, "bulk_price": 188, "bulk_threshold": 70},
+            "250ml": {"list_price": 120, "cost_price": 90, "bulk_price": 105, "bulk_threshold": 150}
+          }
+        }
+      ]
+    }
+  },
+  "Cropcrade India Private Limited": {
+    "categories": {
+      "Fertilizer": [
+        {
+          "product_code": "CI-F001",
+          "product_name": "Cropcrade DAP",
+          "variants": {
+            "50kg": {"list_price": 1240, "cost_price": 980, "bulk_price": 1100, "bulk_threshold": 20},
+            "10kg": {"list_price": 305, "cost_price": 245, "bulk_price": 277, "bulk_threshold": 60}
+          }
+        },
+        {
+          "product_code": "CI-F002",
+          "product_name": "Cropcrade MOP",
+          "variants": {
+            "25kg": {"list_price": 700, "cost_price": 570, "bulk_price": 630, "bulk_threshold": 35},
+            "5kg": {"list_price": 140, "cost_price": 112, "bulk_price": 126, "bulk_threshold": 120}
+          }
+        }
+      ],
+      "Herbicide": [
+        {
+          "product_code": "CI-H001",
+          "product_name": "Cropcrade Pendimethalin",
+          "variants": {
+            "1L": {"list_price": 520, "cost_price": 415, "bulk_price": 480, "bulk_threshold": 22},
+            "500ml": {"list_price": 285, "cost_price": 228, "bulk_price": 255, "bulk_threshold": 60}
+          }
+        },
+        {
+          "product_code": "CI-H002",
+          "product_name": "Cropcrade Metolachlor",
+          "variants": {
+            "1L": {"list_price": 540, "cost_price": 430, "bulk_price": 510, "bulk_threshold": 28}
+          }
+        }
+      ]
+    }
+  },
+  "AgroOrbit Hub": {
+    "categories": {
+      "Fertilizer": [
+        {
+          "product_code": "AO-F001",
+          "product_name": "Orbit Super NPK",
+          "variants": {
+            "50kg": {"list_price": 1350, "cost_price": 1100, "bulk_price": 1200, "bulk_threshold": 20},
+            "5kg": {"list_price": 190, "cost_price": 160, "bulk_price": 174, "bulk_threshold": 70}
+          }
+        },
+        {
+          "product_code": "AO-F002",
+          "product_name": "Orbit Urea",
+          "variants": {
+            "50kg": {"list_price": 960, "cost_price": 820, "bulk_price": 880, "bulk_threshold": 30}
+          }
+        }
+      ],
+      "Herbicide": [
+        {
+          "product_code": "AO-H001",
+          "product_name": "Orbit Glyphosate",
+          "variants": {
+            "1L": {"list_price": 550, "cost_price": 420, "bulk_price": 510, "bulk_threshold": 30},
+            "500ml": {"list_price": 295, "cost_price": 228, "bulk_price": 265, "bulk_threshold": 60}
+          }
+        },
+        {
+          "product_code": "AO-H002",
+          "product_name": "Orbit Atrazine",
+          "variants": {
+            "1kg": {"list_price": 390, "cost_price": 300, "bulk_price": 350, "bulk_threshold": 45}
+          }
+        }
+      ]
+    }
+  }
+}
